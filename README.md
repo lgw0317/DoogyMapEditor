@@ -1,5 +1,6 @@
-# CoCoDoogy
-![Image](https://github.com/user-attachments/assets/03417ae4-b922-4f4c-9975-6c50247d507d)
+# CoCoDoogy Map Editor
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/754c69ce-0ddd-430d-9693-d4b68f43bebc" />
+
 
 #  CoCoDoogy
 CoCoDoogy [기업협약 프로젝트] 
