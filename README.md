@@ -6,6 +6,9 @@ CoCoDoogy [기업협약 프로젝트]
 
 코코두기 플레이 영상 https://youtu.be/UZxtOPqYw3k
 
+코코두기 Git https://github.com/lgw0317/YKW_CocoDoogy
+
+
 코코두기 맵에디터 영상 https://youtu.be/SR_TgejYDHo
 
 ## 1. 코코두기 소개
